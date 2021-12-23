@@ -1,0 +1,27 @@
+_repo: Wie-Hadleyburg-verderbt-wurde-Nebst-anderen-Erzahlungen_66952
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2021-12-16'
+identifiers:
+  gutenberg: '66952'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Wie Hadleyburg verderbt wurde
+
+  Nebst anderen Erzählungen'
+url: http://www.gutenberg.org/ebooks/66952
