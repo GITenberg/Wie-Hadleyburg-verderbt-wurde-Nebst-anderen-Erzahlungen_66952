@@ -1,5 +1,8 @@
 _repo: Wie-Hadleyburg-verderbt-wurde-Nebst-anderen-Erzahlungen_66952
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66952-h/images/cover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66952#Wie-Hadleyburg-verderbt-wurde-Nebst-anderen-Erzahlungen
 gutenberg_issued: '2021-12-16'
 identifiers:
   gutenberg: '66952'
